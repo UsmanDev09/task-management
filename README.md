@@ -76,3 +76,10 @@ The application uses a dark theme by default with custom CSS variables for key c
 - `--kanban-column-bg`: Kanban column background
 - `--table-border`: Table border color
 
+## Bonus milestones
+
+1. Animations and transitions
+2. Undo/redo functionality
+3. Multiselect for bulk actions
+4. Kanban view
+
